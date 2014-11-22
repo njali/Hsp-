@@ -3,7 +3,7 @@ Hospital Management:
  of hospitals, health care systems.  the  term hospital Hospital management is management in
  which various records of the doctors ,patients, medicine, stock are maintained effectively.
  
- Functions of hospital management:
+ Functions of hospital management are:
 1. Login 
 2. Logout
 3.Appointment detail
